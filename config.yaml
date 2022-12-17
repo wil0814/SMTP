@@ -1,0 +1,5 @@
+SENDER: "your_email"
+PASSWORD: "your_password"
+SMTP_SERVER: "smtp.gmail.com"
+PORT: ":587"
+RECIPIENT: "rexipient"
